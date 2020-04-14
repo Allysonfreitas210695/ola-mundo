@@ -1,0 +1,23 @@
+h1{
+    margin-top: 2px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+p{
+    margin-top: 2px;
+    color: rgb(161, 59, 59);
+    font-family: 'Times New Roman', Times, serif;
+
+}
+body{
+    background-color: rgb(168, 173, 162);
+}
+img{
+    margin-top: 10px;
+    margin-left: 190px;
+}
